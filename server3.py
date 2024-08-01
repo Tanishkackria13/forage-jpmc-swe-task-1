@@ -37,7 +37,7 @@ import dateutil.parser
 #
 # Config
 
-# Sim params
+# Sim paramsclear
 
 REALTIME = True
 SIM_LENGTH = timedelta(days=365 * 5)
